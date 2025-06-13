@@ -1,0 +1,155 @@
+.body-background{
+background-color: rgb(245, 245, 245);
+
+}
+
+.nav-father{
+display: flex;
+justify-content: space-between;
+align-items: center;
+}
+
+.nav-child1{
+font-size: 32px;
+font-weight:700 ;
+color:rgb(14, 14, 14) ;
+
+}
+.nav-child2{
+font-size: 18px;
+font-weight:600 ;
+color:rgb(0, 106, 80);
+border: 1px solid rgb(0, 106, 80);
+border-radius: 3px ;
+padding: 10px;
+
+}
+
+/* Bangladesh 2.0 innovation */
+.innovation-father{
+display: flex;
+justify-content: space-between;
+align-items: center;
+background-color: rgb(198, 228, 214);
+margin-top: 100px;
+border-radius: 24px;
+height: 560px;
+
+}
+.innovation-child1{
+margin-left: 30px;
+}
+.innovation-child2{
+margin-right: 30px;
+}
+.innovation-child1-para1{
+font-size: 24px;
+font-weight:500 ;
+color:rgba(14, 14, 14, 0.5);
+
+
+}
+.innovation-child1-para2{
+color: rgb(14, 14, 14);
+font-size: 56px;
+font-weight:700 ;
+margin-bottom: 30px;
+margin-top: 0px;
+
+}
+.innovation-child1-btn{
+background-color:rgb(0, 106, 80) ;
+color: rgb(255, 255, 255);
+font-size: 18px;
+font-weight:600 ;
+border: none;
+border-radius: 8px;
+padding: 17px 34px;
+
+}
+.innovation-child1-btn:hover{
+background-color: hotpink;
+color: black;
+}
+
+/* Pillars of "Bangladesh 2.0" */
+.pillars-title{
+color: rgb(14, 14, 14);
+font-size: 40px;
+font-weight:700 ;
+
+}
+.Pillars-father{
+display: flex;
+
+}
+
+
+.Pillars-child1{
+background-color: rgb(255, 255, 255);
+height: 200px;
+width: 260px;
+padding: 50px 10px 20px 20px;
+border-radius: 16px;
+
+
+}
+.Pillars-child2{
+background-color: rgb(255, 255, 255);
+height: 200px;
+width: 260px;
+padding: 50px 10px 20px 20px;
+margin-left: 50px;
+border-radius: 16px;
+
+
+}
+
+.Pillars-child3{
+background-color: rgb(255, 255, 255);
+height: 200px;
+width: 260px;
+padding: 50px 10px 20px 20px;
+margin-left: 50px;
+border-radius: 16px;
+
+
+}
+
+.Pillars-child4{
+background-color: rgb(255, 255, 255);
+height: 200px;
+width: 260px;
+padding: 50px 10px 20px 20px;
+margin-left: 50px;
+border-radius: 16px;
+}
+
+
+
+
+.Pillars-child1-para1{
+font-size: 20px;
+font-weight:700 ;
+color: rgba(14, 14, 14, 0.8);
+
+}
+.Pillars-child1-para2{
+font-size: 16px;
+font-weight:400 ;
+color:rgba(14, 14, 14, 0.7);
+
+}
+/* The Vision of Future */
+.Vision-para1{
+font-size: 40px;
+font-weight:700 ;
+color:rgb(14, 14, 14);
+margin-bottom: 0px;
+
+}
+.Vision-para2{
+color: rgba(14, 14, 14, 0.7);
+font-size: 16px;
+font-weight:400 ;
+}
